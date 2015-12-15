@@ -7,7 +7,7 @@ return array(
 		'cookie_httponly' => true,
 		'cookie_secure' => false,
 		'name' => 'ZF2_SESSION',
-		'save_path' => __DIR__ . '/../../../data/session'		
+		'save_path' => __DIR__ . '/../../../../data/session'		
 	),
     'router' => array(
         'routes' => array(
