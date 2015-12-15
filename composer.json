@@ -7,8 +7,8 @@
         "framework",
         "zf2",
         "album",
-        'rest',
-        'rest-server-demo'
+        "rest",
+        "rest-server-demo"
     ],
     "homepage": "https://github.com/ledsinclouds/RestServerDemo.git",
     "minimum-stability": "dev",
