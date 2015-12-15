@@ -1,6 +1,6 @@
 {
     "name": "ledsinclouds/rest-server-demo",
-    "description": "ZF2 Album Module using Doctrine ",
+    "description": "ZF2 Rest server application demo using Doctrine ",
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
